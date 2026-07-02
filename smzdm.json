@@ -1,0 +1,12 @@
+{
+  key: 0,
+  name: 'smzdm',
+  rules: [
+    {
+      action: 'click',
+      matches: [
+        'TextView[id="com.smzdm.client.android:id/tv_skip"][text^="跳过"]',
+      ],
+    },
+  ],
+}
