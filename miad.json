@@ -9,7 +9,7 @@
         {
           action: 'click',
           matches: [
-            'TextView[id="com.miui.systemAdSolution:id/view_skip_button"][text^="跳过广告"]',
+            'TextView[id="com.miui.systemAdSolution:id/view_skip_button"][text^="跳过"]',
           ],
         },
       ],
